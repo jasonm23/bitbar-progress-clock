@@ -1,7 +1,6 @@
 # bitbar-progress-clock
 
 - ![](000.png)
-- ![](001.png)
 - ![](010.png)
 - ![](020.png)
 - ![](030.png)
